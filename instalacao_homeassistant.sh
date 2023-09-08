@@ -53,7 +53,7 @@ update_armbian() {
     echo ""
     echo "A atualizar armbian"
     echo ""
-    armbian-update
+    #armbian-update
 }
 
 # ------------------------------------------------------------------------------
